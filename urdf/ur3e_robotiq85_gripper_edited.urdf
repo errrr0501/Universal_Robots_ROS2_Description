@@ -299,13 +299,13 @@
     <visual>
       <origin rpy="0 0 3.141592653589793" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/visual/base.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/visual/base.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 3.141592653589793" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/collision/base.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/collision/base.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -318,13 +318,13 @@
     <visual>
       <origin rpy="0 0 3.141592653589793" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/visual/shoulder.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/visual/shoulder.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 3.141592653589793" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/collision/shoulder.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/collision/shoulder.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -337,13 +337,13 @@
     <visual>
       <origin rpy="1.5707963267948966 0 -1.5707963267948966" xyz="0 0 0.12"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/visual/upperarm.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/visual/upperarm.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="1.5707963267948966 0 -1.5707963267948966" xyz="0 0 0.12"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/collision/upperarm.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/collision/upperarm.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -356,13 +356,13 @@
     <visual>
       <origin rpy="1.5707963267948966 0 -1.5707963267948966" xyz="0 0 0.027"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/visual/forearm.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/visual/forearm.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="1.5707963267948966 0 -1.5707963267948966" xyz="0 0 0.027"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/collision/forearm.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/collision/forearm.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -375,13 +375,13 @@
     <visual>
       <origin rpy="1.5707963267948966 0 0" xyz="0 0 -0.104"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/visual/wrist1.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/visual/wrist1.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="1.5707963267948966 0 0" xyz="0 0 -0.104"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/collision/wrist1.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/collision/wrist1.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -394,13 +394,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 -0.08535"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/visual/wrist2.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/visual/wrist2.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 -0.08535"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/collision/wrist2.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/collision/wrist2.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -413,13 +413,13 @@
     <visual>
       <origin rpy="1.5707963267948966 0 0" xyz="0 0 -0.0921"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/visual/wrist3.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/visual/wrist3.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="1.5707963267948966 0 0" xyz="0 0 -0.0921"/>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/collision/wrist3.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/collision/wrist3.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -532,7 +532,7 @@
   <link name="robotiq_coupler">
     <visual>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/robotiq_85_coupler.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/robotiq_85_coupler.stl"/>
       </geometry>
       <material name="black">
         <color rgba="0.0 0.0 0.0 1.0"/>
@@ -540,7 +540,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/robotiq_85_coupler.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/robotiq_85_coupler.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -585,12 +585,12 @@
     <!-- Gripper body -->
     <visual>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/visual/robotiq_85_base_link.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/visual/robotiq_85_base_link.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/collision/robotiq_85_base_link.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/collision/robotiq_85_base_link.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -648,12 +648,12 @@
   <link name="robotiq_85_left_knuckle_link">
     <visual>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/visual/robotiq_85_knuckle_link.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/visual/robotiq_85_knuckle_link.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/collision/robotiq_85_knuckle_link.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/collision/robotiq_85_knuckle_link.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -665,12 +665,12 @@
   <link name="robotiq_85_right_knuckle_link">
     <visual>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/visual/robotiq_85_knuckle_link.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/visual/robotiq_85_knuckle_link.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/collision/robotiq_85_knuckle_link.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/collision/robotiq_85_knuckle_link.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -692,12 +692,12 @@
   <link name="robotiq_85_left_finger_link">
     <visual>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/visual/robotiq_85_finger_link.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/visual/robotiq_85_finger_link.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/collision/robotiq_85_finger_link.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/collision/robotiq_85_finger_link.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -709,12 +709,12 @@
   <link name="robotiq_85_right_finger_link">
     <visual>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/visual/robotiq_85_finger_link.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/visual/robotiq_85_finger_link.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/collision/robotiq_85_finger_link.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/collision/robotiq_85_finger_link.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -764,12 +764,12 @@
   <link name="robotiq_85_left_inner_knuckle_link">
     <visual>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/visual/robotiq_85_inner_knuckle_link.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/visual/robotiq_85_inner_knuckle_link.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/collision/robotiq_85_inner_knuckle_link.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/collision/robotiq_85_inner_knuckle_link.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -781,12 +781,12 @@
   <link name="robotiq_85_right_inner_knuckle_link">
     <visual>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/visual/robotiq_85_inner_knuckle_link.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/visual/robotiq_85_inner_knuckle_link.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/collision/robotiq_85_inner_knuckle_link.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/collision/robotiq_85_inner_knuckle_link.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -836,12 +836,12 @@
   <link name="robotiq_85_left_finger_tip_link">
     <visual>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/visual/robotiq_85_finger_tip_link.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/visual/robotiq_85_finger_tip_link.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/collision/robotiq_85_finger_tip_link.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/collision/robotiq_85_finger_tip_link.stl"/>
       </geometry>
     </collision>
     <inertial>
@@ -862,12 +862,12 @@
   <link name="robotiq_85_right_finger_tip_link">
     <visual>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/visual/robotiq_85_finger_tip_link.dae"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/visual/robotiq_85_finger_tip_link.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur3e/meshes/collision/robotiq_85_finger_tip_link.stl"/>
+        <mesh filename="/home/iarc4080/ubuntu22.04_docker_ws/ur_isaac_ws/src/Universal_Robots_ROS2_Description/meshes/ur3e/meshes/collision/robotiq_85_finger_tip_link.stl"/>
       </geometry>
     </collision>
     <inertial>
